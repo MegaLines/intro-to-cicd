@@ -1,4 +1,4 @@
-// elementary function to test CICD pipeline
+// elementary function to test CICD pipeline...
 function sayHi(name) {
   return `Hello there ${name}`
 }
